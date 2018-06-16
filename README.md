@@ -1,5 +1,7 @@
 # Movie Trailer Website
 
+Site displaying several movies and displaying corresponding trailer
+
 Requirements:
 * Python 2.7
 
